@@ -107,3 +107,20 @@
     Number
     String
     Booleans
+    List
+    Dictionary
+    Tuple
+    Set
+
+### Checking Data types
+
+    To check the data type of certain data - variable we use the "type"
+    function. In the following terminal you will see different python data types.
+
+    https://github.com/Asabeneh/30-Days-Of-Python/blob/master/images/checking_data_types.png
+
+
+### Python File
+
+    https://github.com/Asabeneh/30-Days-Of-Python/blob/master/images/running_python_script.png
+    
