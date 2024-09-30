@@ -1,4 +1,4 @@
-
+# Day 2: Python Programming
 
 # Variables in Python
 
@@ -123,7 +123,19 @@ print(new_number)
 new_str = str(new_number)
 print(new_str)
 
+# str to int or float
+num_str = "12.5"
+print(num_str)
+num_str_to_int = int(float('num_str_to_int:', num_str))
+print(num_str_to_int)
+print('num_float:', float(num_str))
 
+
+# Str to List
+first_name_ = 'Jambinha'
+print(first_name_)
+firste_name_to_list = list(first_name_)
+print(firste_name_to_list)
 
 
 

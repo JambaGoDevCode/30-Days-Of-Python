@@ -71,7 +71,11 @@
         1num
 
 ### Declaring Multiple Variable in a Line
+    Multiple variables can also be declared in one line
+    Gestting user inout using the input() built-in functions. Let us assign the data
+    we get from a user into first_name and age variables.
 
+    
 ### Data types
 
 ### Checking Data types and Casting
